@@ -1,11 +1,13 @@
 # ICCU Case Competition – Fair Lending Risk Dashboard
 
 ## Overview
-This project originated as part of the Idaho Central Credit Union (ICCU) Case Competition, where my team analyzed lending data to identify potential **Fair Lending Law disparities** and compliance risks.
+This project originated as part of the Idaho Central Credit Union (ICCU) Case Competition, where our team analyzed lending data to identify potential **Fair Lending Law disparities** and compliance risks.
 
 The initial analysis was conducted primarily using **Python (Jupyter Notebook)**, focusing on exploratory data analysis and static visualizations to uncover patterns in loan outcomes.
 
 After the competition, I revisited the project to expand its impact by developing a **fully interactive Power BI dashboard**, transforming the original analysis into a more accessible, dynamic, and decision-focused tool.
+
+This dashboard mirrors a real-world audit workflow by combining **disparity detection, anomaly identification, and root cause analysis**.
 
 ---
 
